@@ -17,8 +17,3 @@ class Day01
     cnt
   end
 end
-
-input = File.read_lines("#{__DIR__}/day01.txt")
-day01 = Day01.new(input)
-puts day01.part1
-puts day01.part2

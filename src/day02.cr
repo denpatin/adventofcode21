@@ -35,8 +35,3 @@ class Day02
     horizontal * depth
   end
 end
-
-input = File.read_lines("#{__DIR__}/day02.txt")
-day02 = Day02.new(input)
-puts day02.part1
-puts day02.part2

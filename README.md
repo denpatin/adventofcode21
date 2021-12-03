@@ -1,3 +1,5 @@
+[![.github/workflows/crystal.yml](https://github.com/denpatin/adventofcode21/actions/workflows/crystal.yml/badge.svg?branch=master)](https://github.com/denpatin/adventofcode21/actions/workflows/crystal.yml)
+
 # Advent of Code 2021
 
 - Day 1: [Code](src/day01.cr) + [tests](spec/day01_spec.cr)
